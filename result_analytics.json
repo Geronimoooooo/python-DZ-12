@@ -1,0 +1,984 @@
+[
+  {
+    "keywords": "system analytics",
+    "count": 58,
+    "count_total_found_by_hh": 58,
+    "average_salary_by_currency": {
+      "USD": 5037.5,
+      "RUR": 190000.0
+    },
+    "requirements": [
+      {
+        "name": "python",
+        "count": 14,
+        "percent": 4.56
+      },
+      {
+        "name": "английский язык",
+        "count": 14,
+        "percent": 4.56
+      },
+      {
+        "name": "sql",
+        "count": 8,
+        "percent": 2.61
+      },
+      {
+        "name": "деловая коммуникация",
+        "count": 5,
+        "percent": 1.63
+      },
+      {
+        "name": "pytorch",
+        "count": 5,
+        "percent": 1.63
+      },
+      {
+        "name": "machine learning",
+        "count": 5,
+        "percent": 1.63
+      },
+      {
+        "name": "nlp",
+        "count": 5,
+        "percent": 1.63
+      },
+      {
+        "name": "negotiation skills",
+        "count": 4,
+        "percent": 1.3
+      },
+      {
+        "name": "business development",
+        "count": 4,
+        "percent": 1.3
+      },
+      {
+        "name": "аналитическое мышление",
+        "count": 4,
+        "percent": 1.3
+      },
+      {
+        "name": "rag",
+        "count": 4,
+        "percent": 1.3
+      },
+      {
+        "name": "genai",
+        "count": 4,
+        "percent": 1.3
+      },
+      {
+        "name": "aws",
+        "count": 3,
+        "percent": 0.98
+      },
+      {
+        "name": "подготовка презентаций",
+        "count": 3,
+        "percent": 0.98
+      },
+      {
+        "name": "project management",
+        "count": 3,
+        "percent": 0.98
+      },
+      {
+        "name": "sales skills",
+        "count": 3,
+        "percent": 0.98
+      },
+      {
+        "name": "etl",
+        "count": 3,
+        "percent": 0.98
+      },
+      {
+        "name": "ms excel",
+        "count": 3,
+        "percent": 0.98
+      },
+      {
+        "name": "linux",
+        "count": 3,
+        "percent": 0.98
+      },
+      {
+        "name": "data science",
+        "count": 3,
+        "percent": 0.98
+      },
+      {
+        "name": "langchain",
+        "count": 3,
+        "percent": 0.98
+      },
+      {
+        "name": "langgraph",
+        "count": 3,
+        "percent": 0.98
+      },
+      {
+        "name": "vllm",
+        "count": 3,
+        "percent": 0.98
+      },
+      {
+        "name": "oss models",
+        "count": 3,
+        "percent": 0.98
+      },
+      {
+        "name": "prompt engineering",
+        "count": 3,
+        "percent": 0.98
+      },
+      {
+        "name": "system design",
+        "count": 3,
+        "percent": 0.98
+      },
+      {
+        "name": "big data",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "прогнозирование",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "digital marketing",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "data analysis",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "power bi",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "pandas",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "scikit-learn",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "google analytics",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "e-commerce",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "computer vision",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "b2b marketing",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "rest api",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "event management",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "immersive technologies",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "exhibitions",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "communication skills",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "стратегия продаж",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "развитие продаж",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "поиск и привлечение клиентов",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "leadership skills",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "b2b продажи",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "analysis",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "atlassian jira",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "fastapi",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "asyncio",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "quadrant",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "mulvus",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "pgvector",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "highload",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "llm api",
+        "count": 2,
+        "percent": 0.65
+      },
+      {
+        "name": "node.js",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "postgresql",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "clickhouse",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "apache kafka",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "golang",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "ecs",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "sap",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "стратегическое планирование",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "бизнес-моделирование",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "strategic planning",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "analytical skills",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "social media marketing",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "business intelligence systems",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "tableau",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "superset",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "snowflake",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "power query",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "apache airflow",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "продуктовая стратегия",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "разработка нового продукта",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "pricing",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "бенчмаркинг",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "финансовая отчетность",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "финансовый анализ",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "деловая переписка",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "мсфо",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "ifrs",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "customer relationship management",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "ms access",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "ms project",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "account management",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "regression",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "ensemble learning",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "time series forecasting",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "xgboost,",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "tensorflow",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "cgp",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "kubernetes",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "terraform",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "ci/cd",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "english",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "интернет-реклама",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "seo",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "контекстная реклама",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "управление продажами",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "интернет маркетинг",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "data collection",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "ml",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "деловое общение",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "affiliate manager",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "betting traffic",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "asr",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "tts",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "ai solutions",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "json",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "generative ai",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "llms",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "ivr",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "acd",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "cti",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "bi tools",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "sip-телефония",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "sip",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "организация деловых поездок",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "ведение переписки на иностранном языке",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "документооборот",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "административная поддержка руководителя",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "протоколирование",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "деловая этика",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "французский язык",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "dwh",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "google sheets",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "martech",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "product analytics",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "бизнес-анализ",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "системный подход",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "ms powerpoint",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "retail",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "оптимизация бизнес-процессов",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "работа с большим объемом информации",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "teamleading",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "маркетинговые коммуникации",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "разработка маркетинговой стратегии",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "планирование маркетинговых кампаний",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "стратегический маркетинг",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "продвижение бренда",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "стратегическое мышление",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "работа с базами данных",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "yandex.market",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "product card management",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "advertising setup (tm)",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "sales analytics",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "working with the seller's personal account",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "yandex.market seo",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "3p",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "1p",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "electronics market",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "gtm, logistics",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "psi analysis",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "trade marketing",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "internet marketing",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "английский — c1 — продвинутый",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "internet advertising",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "presentation skills",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "opencv",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "java",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "numpy",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "scipy",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "neural nets",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "recommender systems",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "search ranking",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "a/b-experiments",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "анализ данных",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "hadoop",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "hive",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "presto",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "mathematics",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "llm train",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "llm fine-tuning",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "sft",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "peft",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "rlhf",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "ppo",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "dpo",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "grpo",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "lora",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "trl",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "transformers",
+        "count": 1,
+        "percent": 0.33
+      },
+      {
+        "name": "accelerate",
+        "count": 1,
+        "percent": 0.33
+      }
+    ],
+    "extra": {
+      "top_employers": [
+        {
+          "name": "BostonGene Technologies",
+          "count": 7
+        },
+        {
+          "name": "Tibbo Systems",
+          "count": 4
+        },
+        {
+          "name": "HeadHunter",
+          "count": 4
+        },
+        {
+          "name": "Podscribe",
+          "count": 2
+        },
+        {
+          "name": "НООСФЕРА",
+          "count": 2
+        },
+        {
+          "name": "AbbVie",
+          "count": 2
+        },
+        {
+          "name": "Sentient By Elysian",
+          "count": 2
+        },
+        {
+          "name": "Кьези Фармасьютикалс",
+          "count": 1
+        },
+        {
+          "name": "Триема",
+          "count": 1
+        },
+        {
+          "name": "Кей Ти Эн Джи Глобал Рус",
+          "count": 1
+        }
+      ],
+      "vacancies_with_salary": 13,
+      "unique_requirements": 185
+    }
+  }
+]

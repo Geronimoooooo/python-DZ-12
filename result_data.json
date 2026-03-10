@@ -1,0 +1,1104 @@
+[
+  {
+    "keywords": "data scientist",
+    "count": 238,
+    "count_total_found_by_hh": 238,
+    "average_salary_by_currency": {
+      "RUR": 307227.27,
+      "USD": 6000.0
+    },
+    "requirements": [
+      {
+        "name": "python",
+        "count": 84,
+        "percent": 12.0
+      },
+      {
+        "name": "sql",
+        "count": 47,
+        "percent": 6.71
+      },
+      {
+        "name": "pytorch",
+        "count": 26,
+        "percent": 3.71
+      },
+      {
+        "name": "pandas",
+        "count": 24,
+        "percent": 3.43
+      },
+      {
+        "name": "big data",
+        "count": 16,
+        "percent": 2.29
+      },
+      {
+        "name": "numpy",
+        "count": 16,
+        "percent": 2.29
+      },
+      {
+        "name": "ml",
+        "count": 15,
+        "percent": 2.14
+      },
+      {
+        "name": "hadoop",
+        "count": 15,
+        "percent": 2.14
+      },
+      {
+        "name": "data science",
+        "count": 13,
+        "percent": 1.86
+      },
+      {
+        "name": "deep learning",
+        "count": 13,
+        "percent": 1.86
+      },
+      {
+        "name": "catboost",
+        "count": 12,
+        "percent": 1.71
+      },
+      {
+        "name": "scikit-learn",
+        "count": 12,
+        "percent": 1.71
+      },
+      {
+        "name": "nlp",
+        "count": 12,
+        "percent": 1.71
+      },
+      {
+        "name": "tensorflow",
+        "count": 12,
+        "percent": 1.71
+      },
+      {
+        "name": "data analysis",
+        "count": 11,
+        "percent": 1.57
+      },
+      {
+        "name": "llm",
+        "count": 11,
+        "percent": 1.57
+      },
+      {
+        "name": "machine learning",
+        "count": 11,
+        "percent": 1.57
+      },
+      {
+        "name": "pyspark",
+        "count": 11,
+        "percent": 1.57
+      },
+      {
+        "name": "xgboost",
+        "count": 9,
+        "percent": 1.29
+      },
+      {
+        "name": "анализ данных",
+        "count": 9,
+        "percent": 1.29
+      },
+      {
+        "name": "it",
+        "count": 9,
+        "percent": 1.29
+      },
+      {
+        "name": "clickhouse",
+        "count": 7,
+        "percent": 1.0
+      },
+      {
+        "name": "ai",
+        "count": 7,
+        "percent": 1.0
+      },
+      {
+        "name": "apache airflow",
+        "count": 7,
+        "percent": 1.0
+      },
+      {
+        "name": "computer vision",
+        "count": 6,
+        "percent": 0.86
+      },
+      {
+        "name": "mlflow",
+        "count": 6,
+        "percent": 0.86
+      },
+      {
+        "name": "машинное обучение",
+        "count": 6,
+        "percent": 0.86
+      },
+      {
+        "name": "postgresql",
+        "count": 6,
+        "percent": 0.86
+      },
+      {
+        "name": "rag",
+        "count": 6,
+        "percent": 0.86
+      },
+      {
+        "name": "docker",
+        "count": 5,
+        "percent": 0.71
+      },
+      {
+        "name": "английский язык",
+        "count": 5,
+        "percent": 0.71
+      },
+      {
+        "name": "разработка поисковых технологий",
+        "count": 5,
+        "percent": 0.71
+      },
+      {
+        "name": "математическая статистика",
+        "count": 4,
+        "percent": 0.57
+      },
+      {
+        "name": "алгоритмы и структуры данных",
+        "count": 4,
+        "percent": 0.57
+      },
+      {
+        "name": "spark",
+        "count": 4,
+        "percent": 0.57
+      },
+      {
+        "name": "ci/cd",
+        "count": 4,
+        "percent": 0.57
+      },
+      {
+        "name": "opencv",
+        "count": 4,
+        "percent": 0.57
+      },
+      {
+        "name": "linux",
+        "count": 4,
+        "percent": 0.57
+      },
+      {
+        "name": "greenplum",
+        "count": 4,
+        "percent": 0.57
+      },
+      {
+        "name": "торговая площадка",
+        "count": 4,
+        "percent": 0.57
+      },
+      {
+        "name": "управление командой",
+        "count": 3,
+        "percent": 0.43
+      },
+      {
+        "name": "matplotlib",
+        "count": 3,
+        "percent": 0.43
+      },
+      {
+        "name": "hive",
+        "count": 3,
+        "percent": 0.43
+      },
+      {
+        "name": "a/b тесты",
+        "count": 3,
+        "percent": 0.43
+      },
+      {
+        "name": "java",
+        "count": 3,
+        "percent": 0.43
+      },
+      {
+        "name": "статистический анализ",
+        "count": 3,
+        "percent": 0.43
+      },
+      {
+        "name": "визуализация данных",
+        "count": 3,
+        "percent": 0.43
+      },
+      {
+        "name": "mlops",
+        "count": 3,
+        "percent": 0.43
+      },
+      {
+        "name": "kubernetes",
+        "count": 3,
+        "percent": 0.43
+      },
+      {
+        "name": "transformers",
+        "count": 3,
+        "percent": 0.43
+      },
+      {
+        "name": "english",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "statistics",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "lightgbm",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "jupyter notebook",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "ds",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "аналитика",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "power bi",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "api",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "fastapi",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "apache kafka",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "рекомендательные системы",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "математическое моделирование",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "валидация моделей",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "модельный риск",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "oracle",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "нейронные сети",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "динамическое ценообразование",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "субд",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "ms sql server",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "hdfs",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "data scientist",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "ai-агенты",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "langchain",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "аналитическое мышление",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "apache hive",
+        "count": 2,
+        "percent": 0.29
+      },
+      {
+        "name": "soft skills",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "коммуникабельность",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "деловая коммуникация",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "классическое машинное обучение",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "clearml",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "generative ai & recommendation systems",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "growth hacking",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "управление бэклогом",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "основы управления проектами",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "impact mapping",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "командные метрики",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "жизненный цикл команды",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "large scale scrum",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "разработка бизнес-требований",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "планирование бюджета",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "• python",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "• tensorflow",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "• pytorch",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "• big data",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "• devops",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "tableau",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "sklearn",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "cv",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "git",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "мотивация",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "natural language processing",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "pycharm",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "self-supervised learning",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "onnx",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "unit testing",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "computer science",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "научные исследования",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "научная деятельность",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "redis",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "прогнозирование спроса",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "bigquery",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "c++",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "системы видеонаблюдения",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "airflow",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "product management",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "управление проектами",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "продуктовая стратегия",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "product-market fit",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "стратегический менеджмент",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "продуктовые метрики",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "управление изменениями",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "управление ресурсами",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "ии",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "руководство ml командами",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "кредитные риски",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "crm",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "pricing",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "lead",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "монетизация",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "pd",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "lgd",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "uplift",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "mysql",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "redash",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "pipeline",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "ml моделирование",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "dwh",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "regression",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "ensemble learning",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "time series forecasting",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "xgboost,",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "cgp",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "terraform",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "datalens",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "поиск",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "yarn",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "asr",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "tts",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "rest api",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "ai solutions",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "json",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "generative ai",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "llms",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "ivr",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "acd",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "cti",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "bi tools",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "sip-телефония",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "sip",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "bigdata",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "gigachain",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "ms excel",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "olap (online analytical processing)",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "искуственный интеллект",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "ms powerpoint",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "keras",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "neural networks",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "scoring",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "скоринг",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "rnn",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "lstm",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "gru",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "управленческие навыки",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "golang",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "ios",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "android",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "организаторские навыки",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "информационная безопасность",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "kafka",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "rabbitmq",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "ozon tech",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "маркетплейс",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "ml/dl/cv",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "yolo",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "ubuntu",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "ms power bi",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "dataenginer",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "дашборд",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "работа с системами аналитики",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "теория вероятностей",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "исследовательский анализ данных",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "моделирование",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "предобработка данных",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "ms sql",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "classic ml",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "ci\\cd",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "аб тестирование",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "работа с базами данных",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "qlik sense",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "atlassian jira",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "aws",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "scipy",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "neural nets",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "recommender systems",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "search ranking",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "a/b-experiments",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "presto",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "mathematics",
+        "count": 1,
+        "percent": 0.14
+      },
+      {
+        "name": "genai",
+        "count": 1,
+        "percent": 0.14
+      }
+    ],
+    "extra": {
+      "top_employers": [
+        {
+          "name": "СБЕР",
+          "count": 45
+        },
+        {
+          "name": "Ozon",
+          "count": 14
+        },
+        {
+          "name": "X5 Tech",
+          "count": 10
+        },
+        {
+          "name": "Альфа-Банк",
+          "count": 5
+        },
+        {
+          "name": "Ростелеком Информационные Технологии",
+          "count": 5
+        },
+        {
+          "name": "ИЦ АЙ-ТЕКО",
+          "count": 5
+        },
+        {
+          "name": "Банк ВТБ (ПАО)",
+          "count": 5
+        },
+        {
+          "name": "RWB (Wildberries & Russ)",
+          "count": 5
+        },
+        {
+          "name": "Газпромбанк",
+          "count": 4
+        },
+        {
+          "name": "Московский Кредитный Банк",
+          "count": 4
+        }
+      ],
+      "vacancies_with_salary": 23,
+      "unique_requirements": 209
+    }
+  }
+]

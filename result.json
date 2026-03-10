@@ -1,0 +1,445 @@
+[
+  {
+    "keywords": "python developer",
+    "count": 20,
+    "count_total_found_by_hh": 3454,
+    "average_salary_by_currency": {
+      "RUR": 162983.33
+    },
+    "requirements": [
+      {
+        "name": "sql",
+        "count": 5,
+        "percent": 5.56
+      },
+      {
+        "name": "python",
+        "count": 3,
+        "percent": 3.33
+      },
+      {
+        "name": "javascript",
+        "count": 3,
+        "percent": 3.33
+      },
+      {
+        "name": "git",
+        "count": 3,
+        "percent": 3.33
+      },
+      {
+        "name": "аналитическое мышление",
+        "count": 2,
+        "percent": 2.22
+      },
+      {
+        "name": "postgresql",
+        "count": 2,
+        "percent": 2.22
+      },
+      {
+        "name": "typescript",
+        "count": 2,
+        "percent": 2.22
+      },
+      {
+        "name": "анализ данных",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "тестирование",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "linux",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "debian",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "tcp/ip",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "qt",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "c++",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "bash",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "sass",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "less",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "material-ui",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "bootstrap",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "ant",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "design",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "js",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "reactjs",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "node.js",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "rest",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "workflow",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "soft skills",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "english",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "data analysis",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "ml",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "statistics",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "data science",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "big data",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "mysql",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "a/b тесты",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "регрессионное тестирование",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "функциональное тестирование",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "интеграционное тестирование",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "анализ тестирования",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "qa",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "http",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "pytest",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "ci/cd",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "api",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "написание автотестов",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "ручное тестирование",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "руководство коллективом",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "администрирование",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "mvp",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "ux",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "ui",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "управление командой",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "управленческие навыки",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "itsm",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "управление процессами",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "системный анализ",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "pl/python",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "itil",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "информационная безопасность",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "kanban",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "разработка регламентов",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "техническая поддержка",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "системная интеграция",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "jira",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "администрирование серверов linux",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "windows server",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "vlan",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "vpn",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "html",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "html5",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "java script",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "angularjs",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "jquery",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "проведение презентаций",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "работа на выставках",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "подготовка презентаций",
+        "count": 1,
+        "percent": 1.11
+      },
+      {
+        "name": "json api",
+        "count": 1,
+        "percent": 1.11
+      }
+    ],
+    "extra": {
+      "top_employers": [
+        {
+          "name": "Крибрум",
+          "count": 1
+        },
+        {
+          "name": "Чеки из Аптеки",
+          "count": 1
+        },
+        {
+          "name": "Концерн Созвездие",
+          "count": 1
+        },
+        {
+          "name": "Сервисный центр Транстелематика",
+          "count": 1
+        },
+        {
+          "name": "Яков и Партнёры",
+          "count": 1
+        },
+        {
+          "name": "Фитмост",
+          "count": 1
+        },
+        {
+          "name": "Rubbles",
+          "count": 1
+        },
+        {
+          "name": "POSCREDIT",
+          "count": 1
+        },
+        {
+          "name": "Р-Вижн",
+          "count": 1
+        },
+        {
+          "name": "Домклик",
+          "count": 1
+        }
+      ],
+      "vacancies_with_salary": 6,
+      "unique_requirements": 77
+    },
+    "average_salary": 162983.33,
+    "salary_currency": "RUR"
+  }
+]
