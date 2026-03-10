@@ -1,12 +1,4 @@
-﻿"""HH vacancies analytics in a single file.
-
-Features:
-- search vacancies by keyword and optional filters
-- collect vacancy details and key skills
-- compute total vacancies, average salary, skills frequency and percentage
-- save analytics to JSON
-"""
-
+﻿
 from __future__ import annotations
 
 import argparse
